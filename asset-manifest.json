@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WhatIsMyQuest/static/css/main.570580e6.chunk.css",
+    "main.js": "/WhatIsMyQuest/static/js/main.efa525ad.chunk.js",
+    "main.js.map": "/WhatIsMyQuest/static/js/main.efa525ad.chunk.js.map",
+    "runtime~main.js": "/WhatIsMyQuest/static/js/runtime~main.f9da032e.js",
+    "runtime~main.js.map": "/WhatIsMyQuest/static/js/runtime~main.f9da032e.js.map",
+    "static/css/2.266e55a5.chunk.css": "/WhatIsMyQuest/static/css/2.266e55a5.chunk.css",
+    "static/js/2.cf9ab7d6.chunk.js": "/WhatIsMyQuest/static/js/2.cf9ab7d6.chunk.js",
+    "static/js/2.cf9ab7d6.chunk.js.map": "/WhatIsMyQuest/static/js/2.cf9ab7d6.chunk.js.map",
+    "index.html": "/WhatIsMyQuest/index.html",
+    "precache-manifest.e6ba67a5f8af89d2eac05035a7b012a1.js": "/WhatIsMyQuest/precache-manifest.e6ba67a5f8af89d2eac05035a7b012a1.js",
+    "service-worker.js": "/WhatIsMyQuest/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/WhatIsMyQuest/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.570580e6.chunk.css.map": "/WhatIsMyQuest/static/css/main.570580e6.chunk.css.map",
+    "static/media/index.css": "/WhatIsMyQuest/static/media/background.8c8b6c09.jpg"
+  }
+}
