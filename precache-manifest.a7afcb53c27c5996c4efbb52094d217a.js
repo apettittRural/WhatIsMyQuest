@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d90a4fec43bf519f4a7fc698ba5ba193",
+    "revision": "b74dd66762762f47431a3faf2f91dd13",
     "url": "/WhatIsMyQuest/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WhatIsMyQuest/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "daafb2e5cca600d620a8",
+    "revision": "c81e7c6ae77f3da5edca",
     "url": "/WhatIsMyQuest/static/css/main.67c49102.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WhatIsMyQuest/static/js/2.cf9ab7d6.chunk.js"
   },
   {
-    "revision": "daafb2e5cca600d620a8",
-    "url": "/WhatIsMyQuest/static/js/main.9cfa755d.chunk.js"
+    "revision": "c81e7c6ae77f3da5edca",
+    "url": "/WhatIsMyQuest/static/js/main.912931df.chunk.js"
   },
   {
     "revision": "3d6fc9d5104f567c75d8",
